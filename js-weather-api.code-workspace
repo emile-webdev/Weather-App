@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../the-odin-project/js-weather-api"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weather-App"
+	}
+}
